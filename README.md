@@ -1,2 +1,2 @@
 # Ganador-del-juego-
-Ganamos el juego y Omos Libre 
+Ganamos el juego y somos Libre 
